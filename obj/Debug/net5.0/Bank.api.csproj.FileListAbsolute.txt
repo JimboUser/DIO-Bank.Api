@@ -1,0 +1,16 @@
+C:\DioWorks\Bank.api\bin\Debug\net5.0\Bank.api.exe
+C:\DioWorks\Bank.api\bin\Debug\net5.0\Bank.api.deps.json
+C:\DioWorks\Bank.api\bin\Debug\net5.0\Bank.api.runtimeconfig.json
+C:\DioWorks\Bank.api\bin\Debug\net5.0\Bank.api.runtimeconfig.dev.json
+C:\DioWorks\Bank.api\bin\Debug\net5.0\Bank.api.dll
+C:\DioWorks\Bank.api\bin\Debug\net5.0\ref\Bank.api.dll
+C:\DioWorks\Bank.api\bin\Debug\net5.0\Bank.api.pdb
+C:\DioWorks\Bank.api\obj\Debug\net5.0\Bank.api.csproj.AssemblyReference.cache
+C:\DioWorks\Bank.api\obj\Debug\net5.0\Bank.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\DioWorks\Bank.api\obj\Debug\net5.0\Bank.api.AssemblyInfoInputs.cache
+C:\DioWorks\Bank.api\obj\Debug\net5.0\Bank.api.AssemblyInfo.cs
+C:\DioWorks\Bank.api\obj\Debug\net5.0\Bank.api.csproj.CoreCompileInputs.cache
+C:\DioWorks\Bank.api\obj\Debug\net5.0\Bank.api.dll
+C:\DioWorks\Bank.api\obj\Debug\net5.0\ref\Bank.api.dll
+C:\DioWorks\Bank.api\obj\Debug\net5.0\Bank.api.pdb
+C:\DioWorks\Bank.api\obj\Debug\net5.0\Bank.api.genruntimeconfig.cache
